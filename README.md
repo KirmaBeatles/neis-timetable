@@ -15,7 +15,7 @@
 **3. 프로그램 설치 (링크 클릭)**
 아래 링크를 누르면 Tampermonkey 설치 화면이 뜹니다. [설치]를 누르세요.
 
-👉 https://raw.githubusercontent.com/GITHUB_ID/neis-timetable/main/juan5-timetable.user.js
+👉 https://raw.githubusercontent.com/KirmaBeatles/neis-timetable/main/juan5-timetable.user.js
 
 **4. 처음 설정**
 나이스에 로그인하면 화면 오른쪽에 "주안초 나이스 시간표 자동 입력시스템" 창이 나타납니다.
